@@ -18,7 +18,8 @@ Future Improvements:
 
 Add more obstacle.
 Randomly move vertical and horizontal.
-Random direction reverse once obstacle is hit.
+Random direction reverse when obstacle is hit.
+
 ==================================================================
 
 LICENSE:
