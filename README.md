@@ -10,9 +10,8 @@ Description: This program will show pacman animation that moves horizontally acc
 How to RUN Instruction:
 
 Download and extract the file.
+Run index.html, preferrably chrome browser.
 
-Download and extract the file.
-Run index.html, preferrably chrome broswer.
 ==================================================================
 
 Future Improvements:
