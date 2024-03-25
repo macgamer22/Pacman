@@ -1,26 +1,23 @@
 # Pacman
 PACMAN ANIMATION
-REAL-TIME BUS TRACKER
 
 ==================================================================
 
-Description: This program will show you the real-time Boston bus line 1 and its route stops along its way. Using the google map and a registered API key, we are able to track the bus and its route stops.
+Description: This program will show pacman animation that moves horizontally accross the page. It reverse direction when it hits the edge of the window.
 
 ==================================================================
 
 How to RUN Instruction:
 
-Signup for an account in Google cloud project.
-Create an API key.
-Once key is created insert it at line 10 of index.html file where it ask for a key.
+Download and extract the file.
 Run index.html, preferrably chrome broswer.
 ==================================================================
 
 Future Improvements:
 
-Add more bus line.
-Schedule timer.
-Automatic day and night mode depending on time of the day.
+Add more obstacle.
+Randomly move vertical and horizontal.
+Random direction reverse once obstacle is hit.
 ==================================================================
 
 LICENSE:
