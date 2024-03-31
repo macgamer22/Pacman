@@ -1,5 +1,5 @@
-# Pacman
-## PACMAN ANIMATION
+# PACMAN
+## Pacman Animation Exercise
 
 ====================
 
